@@ -488,6 +488,7 @@ footer {
     border-radius: 25px;
 }
 
+/* SS */
 #concept1 {
     background-image: url("/Resources/SS-resources/SS-HomePage.png");
 }
@@ -497,6 +498,33 @@ footer {
 }
 
 #concept3 {
+    background-image: url("/Resources/SS-resources/SS-CoursePage.png");
+}
+
+/* IB */
+#concept4 {
+    background-image: url("/Resources/IB-resources/IB-HomePage.png");
+}
+
+#concept5 {
+    background-image: url("/Resources/IB-resources/IB-Guide.png");
+}
+
+#concept6 {
+    background-image: url("/Resources/IB-resources/IB-Microbiome.png");
+}
+
+#concept7 {
+    background-image: url("/Resources/IB-resources/IB-Partner.png");
+}
+
+#concept8 {
+    background-image: url("/Resources/IB-resources/IB-Product.png");
+}
+
+
+/* NX */
+#concept9 {
     background-image: url("/Resources/SS-resources/SS-CoursePage.png");
 }
 
