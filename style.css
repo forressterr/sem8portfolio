@@ -686,6 +686,30 @@ footer {
 /* Footer End */
 
 /* Personal Projects Page */
+.personalProjectContainer .personalProjectTitle {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    align-items: center;
+    justify-content: start;
+    margin-bottom: 2.5%;
+}
+
+.personalProjectTitleStyle {
+    font-family: 'Oswald',
+        sans-serif;
+    font-weight: 700;
+    font-size: 15rem;
+    width: 100%;
+    margin: 0;
+    text-wrap: wrap;
+    text-align: start;
+    justify-content: center;
+    align-items: start;
+    color: #3d3d3d;
+}
+
+.personalProject
 
 
 
