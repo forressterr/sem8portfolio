@@ -757,3 +757,8 @@ footer {
 #nxCard4 {
     background: url("/Resources/NX-resources/NX-Product.png") no-repeat 50% / cover;
 }
+
+/* Responsiveness */
+@media only screen and (max-width: 600px) {
+    
+}
